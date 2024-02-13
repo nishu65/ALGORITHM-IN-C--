@@ -1,3 +1,4 @@
+//........................................................SENTINEL LINEAR SEARCH............................................................
 #include <iostream>
 using namespace std;
 void sentinel(int arr[], int size, int key)

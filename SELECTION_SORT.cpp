@@ -1,3 +1,4 @@
+//...................................................SELECTION SORTING.......................................................
 #include <iostream>
 using namespace std;
 class sort
@@ -27,7 +28,7 @@ public:
 };
 int main()
 {
-    cout<<"................................THIS IS SELECTION SORT...............................";
+    cout<<"................................THIS IS SELECTION SORT..............................."<<endl;
     cout << "ENTER RANGE OF ARRAY :";
     int r;
     cin >> r;
