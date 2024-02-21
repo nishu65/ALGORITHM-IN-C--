@@ -28,7 +28,7 @@ public:
 };
 int main()
 {
-    cout<<"................................THIS IS SELECTION SORT..............................."<<endl;
+    cout << "................................THIS IS SELECTION SORT..............................." << endl;
     cout << "ENTER RANGE OF ARRAY :";
     int r;
     cin >> r;
@@ -45,7 +45,7 @@ int main()
 
         cout << arr[v] << ",";
     }
-    cout << "}"<<endl;
+    cout << "}" << endl;
 
     int size = sizeof(arr);
     sort a;
